@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tekut0kiari
+- 👀 I’m interested in pyhton development
+- 🌱 I’m currently learning pyhton language
+- 📫 How to reach me tlegram: @DenisMoloshonok
